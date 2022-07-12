@@ -26,7 +26,9 @@ const CreateShop = () => {
     
   return (
     <div>
-        <h3>Create Shop...</h3>
+        <br></br>
+        <h3 className="home__text sweet pz__10">CREATE SHOP</h3>
+        <br></br>
         <form onSubmit={Create}>
             <div className='mb-3'>
                 <label className='form-label'>Shop Name</label>
