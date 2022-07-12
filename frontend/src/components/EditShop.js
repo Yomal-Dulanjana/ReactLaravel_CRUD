@@ -40,7 +40,9 @@ const EditShop = () => {
 
     return (
         <div>
-        <h3>Edit Shop</h3>
+            <br></br>
+        <h3 className="home__text sweet pz__10">EDIT SHOP</h3>
+        <br></br>
         <form onSubmit={update}>
         <div className='mb-3'>
                 <label className='form-label'>Shop Name</label>

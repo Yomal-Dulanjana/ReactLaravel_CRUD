@@ -23,11 +23,10 @@ const ShowShops = () => {
   }
   return (
     <div>
-        <h2 className='titel'>Shop List...</h2>
-        
-            <Link to="/create" className='btn btn-primary'>Create</Link>
-        
-
+        <br></br>
+        <h3 className="home__text sweet pz__10">SHOP LIST</h3>
+        <br></br>
+        <br></br>
         <table className='table'>
             <thead >
                 <tr>
